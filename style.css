@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src:url(DXI1ORHCpsQm3Vp6mXoaTYnF5uFdDttMLvmWuJdhhgs.ttf)/*tpa=http://fonts.gstatic.com/s/opensans/v10/DXI1ORHCpsQm3Vp6mXoaTYnF5uFdDttMLvmWuJdhhgs.ttf*/ format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  src:url(EInbV5DfGHOiMmvb1Xr-honF5uFdDttMLvmWuJdhhgs.ttf)/*tpa=http://fonts.gstatic.com/s/opensans/v10/EInbV5DfGHOiMmvb1Xr-honF5uFdDttMLvmWuJdhhgs.ttf*/ format('truetype');
+}
+
+body{
+font-family: 'Open Sans';
+background-image: url(bg.jpg)/*tpa=http://fillstup.ru/img/bg.jpg*/ ;
+background-position: center center;
+background-repeat:  no-repeat;
+background-attachment: fixed;
+background-size:  cover;
+}
+h1 span{
+	color:white;
+}
+h1{
+	color:#07453e;
+	/* margin-top: 220px; */
+	margin-top: 15%;
+	font-size: 45pt;
+}
+*{
+    margin:0;
+    padding:0;
+    text-align: center;
+    text-indent: none;
+    list-style-type: none;
+}
+
